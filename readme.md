@@ -2,13 +2,15 @@
 
 ## Descripción
 
-- Se debe requiere que el servidor interactúe con una base de datos postgresql para guardar y consultar los posts.
+- Se requiere que el servidor interactúe con una base de datos postgresql para guardar y consultar los posts.
 - Es un desafío de la carrera de Desarrollo Web Full Stack.
+
+![Captura](./captura.png)
 
 ### Características
 
 - Se crea un servidor que disponibiliza las rutas GET y POST para consultar y guardar los posts en una base de datos de postgresql.
-- El servidor corre en el puerto localhost:3001.
+- El servidor corre en el puerto localhost:3000.
 - Versión node v18.16.0
 
 ### Instalación
